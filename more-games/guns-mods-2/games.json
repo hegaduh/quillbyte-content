@@ -1,0 +1,77 @@
+{
+ "title": "MORE GAMES",
+ "games": [
+  {
+   "name": "Horror Mods",
+   "desc": "Scary mobs, horror maps & creepy skins",
+   "icon": "icons/horrors.png",
+   "package": "com.QuillbyteStudios.Skins.Horror.Mods",
+   "url": "https://www.amazon.com/gp/mas/dl/android?p=com.QuillbyteStudios.Skins.Horror.Mods",
+   "tag": "HOT",
+   "color": "#ff3b30"
+  },
+  {
+   "name": "Furniture Mods",
+   "desc": "Decorate your house with 1000+ furniture",
+   "icon": "icons/furnitures.png",
+   "package": "com.QuillbyteStudios.Furniture.Mod",
+   "url": "https://www.amazon.com/gp/mas/dl/android?p=com.QuillbyteStudios.Furniture.Mod",
+   "tag": "TOP",
+   "color": "#ffc400"
+  },
+  {
+   "name": "Dinosaur Mods",
+   "desc": "T-Rex, raptors and jurassic worlds",
+   "icon": "icons/dinosaur.png",
+   "package": "com.QuillbyteStudios.Dinosaur.Mods",
+   "url": "https://www.amazon.com/gp/mas/dl/android?p=com.QuillbyteStudios.Dinosaur.Mods",
+   "tag": "NEW",
+   "color": "#7dff5a"
+  },
+  {
+   "name": "Dragon Mods",
+   "desc": "Tame and ride epic dragons",
+   "icon": "icons/dragon.png",
+   "package": "com.QuillbyteStudios.DragonMods",
+   "url": "https://www.amazon.com/gp/mas/dl/android?p=com.QuillbyteStudios.DragonMods",
+   "tag": "",
+   "color": "#ff6a00"
+  },
+  {
+   "name": "Backroom Mods",
+   "desc": "Escape the endless yellow rooms",
+   "icon": "icons/backrooms.png",
+   "package": "com.QuillbyteStudios.Backroom.Mods",
+   "url": "https://www.amazon.com/gp/mas/dl/android?p=com.QuillbyteStudios.Backroom.Mods",
+   "tag": "",
+   "color": "#e8d06a"
+  },
+  {
+   "name": "Lucky Block Mods",
+   "desc": "Break lucky blocks for crazy loot",
+   "icon": "icons/luckyblock.png",
+   "package": "com.QuillbyteStudios.LuckyBlockMods",
+   "url": "https://www.amazon.com/gp/mas/dl/android?p=com.QuillbyteStudios.LuckyBlockMods",
+   "tag": "",
+   "color": "#ffd23f"
+  },
+  {
+   "name": "Nextbot Mods",
+   "desc": "Run from the nextbots!",
+   "icon": "icons/nextbots.png",
+   "package": "com.QuillbyteStudios.Skins.Nextbot.Mods",
+   "url": "https://www.amazon.com/gp/mas/dl/android?p=com.QuillbyteStudios.Skins.Nextbot.Mods",
+   "tag": "",
+   "color": "#b04dff"
+  },
+  {
+   "name": "Portal Mods",
+   "desc": "Portals to new dimensions",
+   "icon": "icons/portal.png",
+   "package": "com.QuillbyteStudios.PortalMods",
+   "url": "https://www.amazon.com/gp/mas/dl/android?p=com.QuillbyteStudios.PortalMods",
+   "tag": "",
+   "color": "#39e4ff"
+  }
+ ]
+}
